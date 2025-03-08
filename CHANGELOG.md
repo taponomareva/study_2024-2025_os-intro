@@ -1,3 +1,12 @@
+#  (2025-03-08)
+
+
+### Features
+
+* **main:** make course structure ([ade0571](https://github.com/taponomareva/study_2024-2025_os-intro/commit/ade0571965d414c2d4f19d6ce94d08c49e7c6515))
+
+
+
 ## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
 
 
