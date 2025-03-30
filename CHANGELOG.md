@@ -3,6 +3,16 @@
 
 ### Features
 
+* **lab8:** pr + r ([0821600](https://github.com/taponomareva/os-intro/commit/0821600c21bafa3b0872dc9e974ec72124d2b1a8))
+* **lab8:** presentation + report ([7b9e848](https://github.com/taponomareva/os-intro/commit/7b9e8485ba8b0df3f006d11039504257cbfc73e3))
+
+
+
+# [1.0.0](https://github.com/taponomareva/os-intro/compare/1.0.3...1.0.0) (2025-03-30)
+
+
+### Features
+
 * **lab8:** presentation + report ([7b9e848](https://github.com/taponomareva/os-intro/commit/7b9e8485ba8b0df3f006d11039504257cbfc73e3))
 
 
