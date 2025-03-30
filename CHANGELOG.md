@@ -1,3 +1,12 @@
+# [1.0.0](https://github.com/taponomareva/os-intro/compare/1.0.3...1.0.0) (2025-03-30)
+
+
+### Features
+
+* **lab8:** presentation + report ([7b9e848](https://github.com/taponomareva/os-intro/commit/7b9e8485ba8b0df3f006d11039504257cbfc73e3))
+
+
+
 # [1.0.0](https://github.com/taponomareva/os-intro/compare/1.0.2...1.0.0) (2025-03-30)
 
 
