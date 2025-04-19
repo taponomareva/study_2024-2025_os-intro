@@ -1,3 +1,7 @@
+# [1.0.0](https://github.com/taponomareva/os-intro/compare/v1.0.9...v1.0.0) (2025-04-19)
+
+
+
 <<<<<<< HEAD
 # [1.0.0](https://github.com/taponomareva/study_2024-2025_os-intro/compare/1.0.0...1.0.8) (2025-03-30)
 
