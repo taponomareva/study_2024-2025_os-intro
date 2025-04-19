@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [1.0.0](https://github.com/taponomareva/study_2024-2025_os-intro/compare/1.0.0...1.0.8) (2025-03-30)
 
 CHANGELOG: https://github.com/taponomareva/study_2024-2025_os-intro/compare/1.0.0...1.0.8
@@ -8,6 +9,13 @@ CHANGELOG: https://github.com/taponomareva/study_2024-2025_os-intro/compare/1.0.
 
 
 # [1.0.0](https://github.com/taponomareva/study_2024-2025_os-intro/compare/1.0.0...1.0.8) (2025-03-30)
+=======
+# [1.0.0](https://github.com/taponomareva/os-intro/compare/v1.0.8...v1.0.0) (2025-04-12)
+
+
+
+# [1.0.0](https://github.com/taponomareva/os-intro/compare/1.0.3...1.0.0) (2025-03-30)
+>>>>>>> release/1.0.9
 
 
 ### Features
